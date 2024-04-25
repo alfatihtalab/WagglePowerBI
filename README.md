@@ -10,11 +10,6 @@ The product team distributed 1,000 Lapcat prototypes for field testing. Now, aft
 
 Below is a quick demonestration about the project components.
 
-### Data Model:
-A snapshot of the data model is provided below and can be found on `Waggle-data-model.png` on this repo.
-
-
-
 
 ### Report Requirements:
 - The CEO is curious about the following questions:
@@ -27,6 +22,7 @@ The report is to include 3 tabs
 - The second page should focus on insights related to pets using the device.
 - The third page should focus on insights related to the families that own the pets.
 
+### Screenshots:
   
 ![p2p1](https://github.com/alfatihtalab/WagglePowerBI/assets/35189369/6a00da55-6440-433b-a002-560b254ec54d)
 
